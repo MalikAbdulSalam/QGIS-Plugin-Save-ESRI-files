@@ -5,7 +5,7 @@ Plugin to save ESRI files of project on single click
 This plugin will export QGIS projec ESRI files in single click
 
 
-How to Configure?
+##How to Configure?
 
 
 > Step-1:- 	Download pluging zip files
@@ -17,7 +17,7 @@ How to Configure?
 >For Windows OS :- unzip the file and place "malik_linker" folder at 'C\Users\USER\AppData\Roaming\QGIS\QGIS3\profiles\default\python			\plugins\' directory
 		
 		
-How to use?
+##How to use?
 
 
 Click on Plugin icon

@@ -19,6 +19,8 @@ This plugin will export QGIS projec ESRI files on single click
 		
 ## How to use?
 
+Plugin Icon will be available in Tool bar
+
 
 Click on Plugin icon
 

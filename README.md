@@ -19,16 +19,16 @@ This plugin will export QGIS projec ESRI files on single click
 		
 ## How to use?
 
-Plugin Icon will be available in Tool bar
+>Plugin Icon will be available in Tool bar
 
 
-Click on Plugin icon
+>Click on Plugin icon
 
 
-dialog box will appear
+>dialog box will appear
 
 
-click on "Export ESRI file" button to export ESRI
+>click on "Export ESRI file" button to export ESRI
 
 
-Result will be saved in "./malik_linker/ESRI/" folder
+>Result will be saved in "./malik_linker/ESRI/" folder

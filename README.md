@@ -14,7 +14,7 @@ How to Configure?
 > Step-2:- 	For GNU/Linux machine unzip the file and place "malik_linker" folder at '/home/USER/.local/share/QGIS/QGIS3/profiles/default/python/plugins/'directory. 
 
 
-For Windows OS :- unzip the file and place "malik_linker" folder at 'C\Users\USER\AppData\Roaming\QGIS\QGIS3\profiles\default\python			\plugins\' directory
+>For Windows OS :- unzip the file and place "malik_linker" folder at 'C\Users\USER\AppData\Roaming\QGIS\QGIS3\profiles\default\python			\plugins\' directory
 		
 		
 How to use?
